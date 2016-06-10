@@ -1,14 +1,14 @@
 {
-  "name": "react-browserify-spa-seed",
+  "name": "16-bit-heroes",
   "version": "0.0.1",
-  "description": "Seed project for React, Browserify, Rework SPAs",
+  "description": "Rogue-like using classic SNES-era Heroes",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:mgonto/react-browserify-spa-seed.git"
   },
   "authors": [
-    "Martin Gontovnikas <martin@gon.to> (http://gon.to/)"
+    "Ryan Gordon <ryan@hdvideoandwebdesign.com> (http://hdvideoandwebdesign.com/)"
   ],
   "browserify": {
     "transform": [
